@@ -1,4 +1,4 @@
-## Hello 👋 I'm @mirz44
+## Hello 👋 I'm Maas Mirzaa
 
 A web developer from Adelaide, working on apps/sites using PHP, WordPress, CraftCMS, ReactJS, and TypeScript. 
 

@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Maas Mirzaa
 
-A frontend web developer from Adelaide, South Australia. I specialize in PHP, WordPress, CraftCMS, ReactJS, NextJS and TypeScript. I am also a huge fan of JAMstack and MERNstack methodologies. Currently working on some personal projects and my portfolio site to improve my animations skills using React libraries and TypeScript.
+A full stack web developer from South Australia. Specialized in React, Next.JS, TypeScript, PHP and WordPress. I am a fan on web animations and am learning Framer Motion and GSAP. Currently working on some personal projects and my portfolio site.
 
 <!---
 - 👋 Hi, I’m @mirz44

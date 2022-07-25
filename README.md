@@ -1,6 +1,6 @@
-## Hello 👋 I'm Maas Mirzaa
+## Hello 👋 I'm Mirzaa
 
-A full stack web developer from South Australia. Specialized in React, Next.JS, TypeScript, PHP and WordPress. I am a fan on web animations and am learning Framer Motion and GSAP. Currently working on some personal projects and my portfolio site.
+A full stack web developer specialized in React, Next.JS, TypeScript, PHP and WordPress. I am a fan on web animations and am learning Framer Motion and GSAP. Currently working on some personal projects and my portfolio site.
 
 <!---
 - 👋 Hi, I’m @mirz44

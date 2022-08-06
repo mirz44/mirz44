@@ -1,6 +1,9 @@
 ## Hello 👋 I'm Mirzaa
 
-A full stack web developer specialized in React, NextJS, TypeScript, PHP and WordPress. I am a fan of web animations and am learning Framer Motion and GSAP. Currently working on some personal projects and my portfolio site.
+I am an experienced frontend web developer specialised in HTML, CSS, JavaScript, WordPress, PHP, React, NextJS and TypeScript.
+Currently obsessed with web animations and am improving my skills using CSS/SVG animations, GSAP, Framer Motion and other animation libraries.
+
+I am also working on my portfolio website and also a personal blog with some technical posts. Hoping to complete these sites soon.
 
 <!---
 - 👋 Hi, I’m @mirz44

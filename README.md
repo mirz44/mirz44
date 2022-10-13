@@ -3,7 +3,9 @@
 I am a frontend web developer specialised in CSS, JavaScript, WordPress, PHP, React, NextJS and TypeScript.
 Currently obsessed with web animations and am improving my skills on CSS/SVG animations using GSAP and Framer Motion.
 
-Contact me via (https://mirzaa.dev)[https://mirzaa.dev]
+<!--
+Contact me via https://mirzaa.dev
+-->
 
 <!---
 - 👋 Hi, I’m @mirz44

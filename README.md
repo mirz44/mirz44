@@ -1,9 +1,9 @@
 ## Hello 👋 I'm Maas Mirzaa
 
-I am an experienced frontend web developer specialised in HTML, CSS, JavaScript, WordPress, PHP, React, NextJS and TypeScript.
-Currently obsessed with web animations and am improving my skills using CSS/SVG animations, GSAP, Framer Motion and other animation libraries.
+I am a frontend web developer specialised in CSS, JavaScript, WordPress, PHP, React, NextJS and TypeScript.
+Currently obsessed with web animations and am improving my skills on CSS/SVG animations using GSAP and Framer Motion.
 
-I am also working on my portfolio website and also a personal blog with some technical posts. Hoping to complete these sites soon.
+Contact me via (https://mirzaa.dev)[https://mirzaa.dev]
 
 <!---
 - 👋 Hi, I’m @mirz44
